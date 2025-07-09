@@ -1,4 +1,4 @@
-# Prescription System for Barwon Health - Database Design & DML Exercises
+# Prescription System - Database Design & DML Exercises
 
 ## 📁 Overview
 
